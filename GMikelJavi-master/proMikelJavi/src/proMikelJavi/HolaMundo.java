@@ -6,9 +6,7 @@ public class HolaMundo {
 		// TODO Auto-generated method stub
 
 		System.out.println("Primer Cambio");
-		System.out.println("Segundo Cambio");
-		System.out.println("Tercer Cambio");
-		System.out.println("Cuarto Cambio");
+
 		
 	}
 
