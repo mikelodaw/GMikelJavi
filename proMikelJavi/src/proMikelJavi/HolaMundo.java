@@ -9,8 +9,7 @@ public class HolaMundo {
 		System.out.println("Segundo Cambio");
 		System.out.println("Tercer Cambio");
 		System.out.println("Cuarto cambio");
-		System.out.println("Mikel Cambio");
-		System.out.println("Mikel Cambio2");
+		System.out.println("Javi Cambio");
 	}
 
 }
